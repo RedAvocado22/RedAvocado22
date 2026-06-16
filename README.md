@@ -49,6 +49,12 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 </tr>
 </table>
 
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedAvocado22&theme=github-compact&hide_border=true&area=true)
+
+</div>
+
 ---
 
 ### Featured projects
