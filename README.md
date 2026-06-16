@@ -16,7 +16,7 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 
 ### Stack &nbsp;&amp;&nbsp; GitHub stats
 
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
 
