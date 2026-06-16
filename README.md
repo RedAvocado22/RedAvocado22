@@ -123,7 +123,7 @@ Technical blog with 170+ posts on system design and backend patterns, written in
 
 <div align="center">
 
-[![GitCity](https://gitcity.natrajx.in/api/svg?u=RedAvocado22&theme=noir)](https://gitcity.natrajx.in/RedAvocado22)
+<a href="https://gitcity.natrajx.in/RedAvocado22"><img alt="GitCity" width="700" src="https://gitcity.natrajx.in/api/svg?u=RedAvocado22&theme=noir"></a>
 
 </div>
 
