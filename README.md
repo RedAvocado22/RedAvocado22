@@ -35,7 +35,7 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=400&theme=github_dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=400&theme=github_dark&hide_rank=true)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=400&layout=compact&langs_count=8&theme=github_dark)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedAvocado22&theme=github-compact&hide_border=true&area=true)
