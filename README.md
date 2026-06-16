@@ -123,7 +123,7 @@ Technical blog with 170+ posts on system design and backend patterns, written in
 
 <div align="center">
 
-![CommitPulse](https://commitpulse.vercel.app/api/streak?user=RedAvocado22&theme=github)
+[![GitCity](https://gitcity.natrajx.in/api/svg?u=RedAvocado22&theme=noir)](https://gitcity.natrajx.in/RedAvocado22)
 
 </div>
 
