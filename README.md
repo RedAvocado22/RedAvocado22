@@ -4,12 +4,7 @@
 
 **Backend dev · CS @ FPT University Hanoi · Building things that don't break**
 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Stack](https://skillicons.dev/icons?i=spring,react,mysql,docker,keycloak,rabbitmq&theme=dark)
 
 </div>
 
@@ -28,21 +23,13 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 ### Stack
 
 **Backend**
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud Gateway](https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL%208-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Backend stack](https://skillicons.dev/icons?i=spring,rabbitmq,keycloak,redis,mysql&theme=dark)
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Frontend stack](https://skillicons.dev/icons?i=react,vite&theme=dark)
 
 **Tooling**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=wayland&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Tooling stack](https://skillicons.dev/icons?i=docker,linux,hyprland&theme=dark)
 
 ---
 
@@ -56,10 +43,7 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 
 B2B agricultural contract & escrow platform. 5 Spring Boot microservices, Saga choreography via RabbitMQ, Outbox Pattern, Keycloak auth.
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
-![Microservices](https://img.shields.io/badge/-Microservices-8957e5?style=flat-square)
-![DDD](https://img.shields.io/badge/-DDD-8957e5?style=flat-square)
+![](https://skillicons.dev/icons?i=spring,rabbitmq&theme=dark)
 
 </td>
 <td width="50%" valign="top">
@@ -68,9 +52,7 @@ B2B agricultural contract & escrow platform. 5 Spring Boot microservices, Saga c
 
 Hospital REST API with ABAC, Redis Lua atomic appointment booking, Keycloak JWT auth, React frontend.
 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Keycloak](https://img.shields.io/badge/-Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![](https://skillicons.dev/icons?i=spring,redis,keycloak,react&theme=dark)
 
 </td>
 </tr>
@@ -81,9 +63,7 @@ Hospital REST API with ABAC, Redis Lua atomic appointment booking, Keycloak JWT 
 
 Minimal SDDM login theme for Linux. Clean aesthetic, Hyprland-ready.
 
-![QML](https://img.shields.io/badge/-QML-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SDDM](https://img.shields.io/badge/-SDDM-8957e5?style=flat-square)
+![](https://skillicons.dev/icons?i=qt,linux,hyprland&theme=dark)
 
 </td>
 <td width="50%" valign="top">
@@ -92,8 +72,7 @@ Minimal SDDM login theme for Linux. Clean aesthetic, Hyprland-ready.
 
 Technical blog with 170+ posts on system design and backend patterns, written in Vietnamese.
 
-![Astro](https://img.shields.io/badge/-Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![System Design](https://img.shields.io/badge/-System%20Design-8957e5?style=flat-square)
+![](https://skillicons.dev/icons?i=astro&theme=dark)
 
 </td>
 </tr>
