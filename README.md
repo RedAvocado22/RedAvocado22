@@ -16,9 +16,9 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 
 ### Stack &nbsp;&amp;&nbsp; GitHub stats
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td width="50%" valign="top">
+<td style="border: none;" width="50%" valign="top">
 
 **Backend**
 
@@ -46,7 +46,7 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 </p>
 
 </td>
-<td width="50%" valign="top" align="right">
+<td style="border: none;" width="50%" valign="top" align="right">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=380&theme=github_dark&hide_rank=true)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=380&layout=compact&langs_count=3&theme=github_dark)
