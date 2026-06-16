@@ -16,9 +16,8 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 
 ### Stack &nbsp;&amp;&nbsp; GitHub stats
 
-<table border="0">
-<tr>
-<td width="35%" valign="top">
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=400&theme=github_dark&hide_rank=true">
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=400&layout=compact&langs_count=3&theme=github_dark">
 
 **Backend**
 <p align="left">
@@ -42,15 +41,7 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
     <a href="#"><img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58E1FF.svg?logo=wayland&logoColor=black"></a>
 </p>
 
-</td>
-<td width="65%" valign="top">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=400&theme=github_dark&hide_rank=true)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=400&layout=compact&langs_count=8&theme=github_dark)
-
-</td>
-</tr>
-</table>
+<br clear="both">
 
 <div align="center">
 
