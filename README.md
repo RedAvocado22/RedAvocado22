@@ -119,11 +119,11 @@ Technical blog with 170+ posts on system design and backend patterns, written in
 
 ---
 
-### Contribution snake
+### Contribution graph
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/RedAvocado22/RedAvocado22/output/github-contribution-grid-snake.svg)
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=RedAvocado22&theme=github)
 
 </div>
 
