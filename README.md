@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ### About
 
 Final-year CS student at **FPT University Hanoi**, obsessed with backend architecture and writing code that's defensible under pressure.
@@ -16,9 +14,7 @@ Currently building **AgriContract** — a B2B agricultural contract & escrow pla
 
 I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel.app)**.
 
----
-
-### Stack
+### Stack &nbsp;&amp;&nbsp; GitHub stats
 
 <p align="left">
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
@@ -29,32 +25,13 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 </p>
 
----
-
-### GitHub stats
-
-<table>
-<tr>
-<td width="60%" valign="top">
+<div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=400&theme=github_dark&hide_rank=true)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=400&layout=compact&langs_count=8&theme=github_dark)
 
-</td>
-<td width="40%" valign="top" align="center">
-
-<img alt="" src="assets/star.png" width="260">
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedAvocado22&theme=github-compact&hide_border=true&area=true)
 
 </div>
-
----
 
 <sub>📍 Hanoi · Open to opportunities</sub>
