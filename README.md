@@ -21,6 +21,7 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 <td width="50%" valign="top">
 
 **Backend**
+
 <p align="left">
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
     <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"></a>
@@ -30,12 +31,14 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 </p>
 
 **Frontend**
+
 <p align="left">
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
 </p>
 
 **Tooling**
+
 <p align="left">
     <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
