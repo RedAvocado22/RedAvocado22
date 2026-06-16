@@ -101,7 +101,7 @@ Technical blog with 170+ posts on system design and backend patterns, written in
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=400&theme=github_dark)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=400&layout=compact&langs_count=5&theme=github_dark)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=400&layout=compact&langs_count=8&theme=github_dark)
 
 ![Contribution snake](https://raw.githubusercontent.com/RedAvocado22/RedAvocado22/output/github-contribution-grid-snake.svg)
 
