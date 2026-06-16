@@ -54,7 +54,10 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 
 B2B agricultural contract & escrow platform. 5 Spring Boot microservices, Saga choreography via RabbitMQ, Outbox Pattern, Keycloak auth.
 
-![](https://skillicons.dev/icons?i=spring,rabbitmq&theme=dark)
+<p align="left">
+    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
+    <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -63,7 +66,12 @@ B2B agricultural contract & escrow platform. 5 Spring Boot microservices, Saga c
 
 Hospital REST API with ABAC, Redis Lua atomic appointment booking, Keycloak JWT auth, React frontend.
 
-![](https://skillicons.dev/icons?i=spring,redis,keycloak,react&theme=dark)
+<p align="left">
+    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
+    <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white"></a>
+    <a href="#"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-4D4D4D.svg?logo=keycloak&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
+</p>
 
 </td>
 </tr>
@@ -74,7 +82,11 @@ Hospital REST API with ABAC, Redis Lua atomic appointment booking, Keycloak JWT 
 
 Minimal SDDM login theme for Linux. Clean aesthetic, Hyprland-ready.
 
-![](https://skillicons.dev/icons?i=qt,linux,hyprland&theme=dark)
+<p align="left">
+    <a href="#"><img alt="QML" src="https://img.shields.io/badge/QML-41CD52.svg?logo=qt&logoColor=white"></a>
+    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
+    <a href="#"><img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58E1FF.svg?logo=wayland&logoColor=black"></a>
+</p>
 
 </td>
 <td width="50%" valign="top">
@@ -83,7 +95,9 @@ Minimal SDDM login theme for Linux. Clean aesthetic, Hyprland-ready.
 
 Technical blog with 170+ posts on system design and backend patterns, written in Vietnamese.
 
-![](https://skillicons.dev/icons?i=astro&theme=dark)
+<p align="left">
+    <a href="#"><img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01.svg?logo=astro&logoColor=white"></a>
+</p>
 
 </td>
 </tr>
