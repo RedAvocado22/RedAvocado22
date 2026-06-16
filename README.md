@@ -18,7 +18,11 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
 
 ---
 
-### Stack
+### Stack &nbsp;&amp;&nbsp; GitHub stats
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **Backend**
 <p align="left">
@@ -41,6 +45,16 @@ I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel
     <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black"></a>
     <a href="#"><img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-58E1FF.svg?logo=wayland&logoColor=black"></a>
 </p>
+
+</td>
+<td width="50%" valign="top">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=380&theme=github_dark)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=380&layout=compact&langs_count=8&theme=github_dark)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -105,12 +119,9 @@ Technical blog with 170+ posts on system design and backend patterns, written in
 
 ---
 
-### GitHub stats
+### Contribution snake
 
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=400&theme=github_dark)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=400&layout=compact&langs_count=8&theme=github_dark)
 
 ![Contribution snake](https://raw.githubusercontent.com/RedAvocado22/RedAvocado22/output/github-contribution-grid-snake.svg)
 
