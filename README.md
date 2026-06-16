@@ -14,21 +14,32 @@ Currently building **AgriContract** — a B2B agricultural contract & escrow pla
 
 I write about system design at **[mio-craft.vercel.app](https://mio-craft.vercel.app)**.
 
-### Stack &nbsp;&amp;&nbsp; GitHub stats
+### GitHub stats &nbsp;&amp;&nbsp; Stack
 
-<p align="left">
-    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
-    <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"></a>
-    <a href="#"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-4D4D4D.svg?logo=keycloak&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
-</p>
-
-<div align="center">
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RedAvocado22&show_icons=true&hide_border=true&count_private=true&card_width=400&theme=github_dark&hide_rank=true)
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedAvocado22&hide_border=true&card_width=400&layout=compact&langs_count=8&theme=github_dark)
+
+</td>
+<td width="35%" valign="top">
+
+<p align="left">
+    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a><br>
+    <a href="#"><img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white"></a><br>
+    <a href="#"><img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-4D4D4D.svg?logo=keycloak&logoColor=white"></a><br>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a><br>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a><br>
+    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RedAvocado22&theme=github-compact&hide_border=true&area=true)
 
